@@ -1,0 +1,14 @@
+HEADING : 
+   logo + title + 2-3 line details
+      title : Fronted Development
+
+CONTENT : 
+TITLE + SOME DETAILS
+
+for content language & framework :
+  HTML , CSS , JAVASCRIPT , BOOTSTRAP , REACT JS 
+
+
+footer : 
+provide a source link to learn fronted development free   
+
